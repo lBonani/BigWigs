@@ -22,9 +22,9 @@ L.near = "%s perto de VOCÊ"
 
 L.phase = "Fase %d"
 L.stage = "Estágio %d"
-L.normal = "Modo normal"
-L.heroic = "Modo heroico"
-L.mythic = "Modo mítico"
+L.normal = "Modo Normal"
+L.heroic = "Modo Heroico"
+L.mythic = "Modo Mítico"
 L.active = "Ativo" -- When a boss becomes active, after speech finishes
 L.general = "Geral" -- General settings, i.e. things that apply to normal, heroic and mythic mode.
 
